@@ -1,5 +1,5 @@
 bootstrap开发新闻站模板
-可用于开发时测试文字
+
 
 https://dummyimage.com/ (动态虚拟图像生成器):
 
